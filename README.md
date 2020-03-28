@@ -3,6 +3,7 @@ Stm32f103 (BluePILL) interface with i2c-lcd 20x4.
 connections
 
 
-STM32-->LCD    
+STM32-->LCD
 SDA -->SDA
+
 SCL --> SCL
