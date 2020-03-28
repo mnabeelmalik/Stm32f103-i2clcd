@@ -4,6 +4,7 @@ connections
 
 
 STM32-->LCD
+
 SDA -->SDA
 
 SCL --> SCL
