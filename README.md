@@ -8,3 +8,9 @@ STM32-->LCD
 SDA -->SDA
 
 SCL --> SCL
+
+LCD I2C library By:
+
+Frank de Brabander 
+
+https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
